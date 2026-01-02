@@ -1,4 +1,4 @@
-# Sphinx Book Theme Template
+# RoboRacer
 
 A customizable documentation template using the **Sphinx Book Theme**, designed for readable, navigable, and professionally styled docs. This template is suitable for research projects, open-source libraries, robotics stacks, or any technical documentation.
 
