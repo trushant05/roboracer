@@ -58,11 +58,11 @@ The license files of it depedencies and assets are present in the
 If you use Sphinx Book Theme Template, please consider citing:
 
 ```bibtex
-@misc{Sphinx Book Theme Template,
+@misc{RoboRacer (f1tenth),
     author = {Trushant Adeshara},
-    title = {Sphinx Book Theme Template},
-    month = {July},
-    year = {2025},
-    url = {https://github.com/trushant05/sphinx_book_theme_template}
+    title = {roboracer},
+    month = {January},
+    year = {2026},
+    url = {https://github.com/trushant05/roboracer}
 }
 ```
