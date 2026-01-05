@@ -1,4 +1,4 @@
-Welcome to Sphinx Book Theme Template
+RoboRacer
 =====================================
 
 **Sphinx Book Theme Template** repository provides jumpstart for documenting projects.
